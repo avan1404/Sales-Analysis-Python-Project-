@@ -15,6 +15,7 @@ I utilized Python, employing libraries like Pandas for data manipulation and Mat
 
 
 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀 & 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀:
+
 Found the month with the highest sales and suggested ways to repeat that success.
 
 Discovered which cities had the most sales and looked into why they performed well.
