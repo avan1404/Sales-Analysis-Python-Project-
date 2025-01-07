@@ -1,13 +1,14 @@
 # Sales-Analysis-Python-Project-
 
 Domain: Sales Analytics
+
 Function: Business Intelligence
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
-This project focuses on analyzing sales data to derive actionable insights that enhance business decision-making. The dataset includes transaction records, allowing for a detailed exploration of sales performance, customer behavior, and product trends.
+This project focuses on analyzing sales data to derive actionable insights that enhance business decision-making. 
 
 𝗧𝗼𝗼𝗹𝘀 & 𝗔𝗽𝗽𝗿𝗼𝗮𝗰𝗵:
-I utilized Python, employing libraries like Pandas for data manipulation and Matplotlib for visualizations. Techniques such as data cleaning, exploratory data analysis, and trend analysis were applied to uncover meaningful patterns and insights.
+I utilized Python, employing libraries like Pandas for data manipulation and Matplotlib for visualizations. Techniques such as data cleaning, exploratory data analysis, and trend analysis were applied.
 
 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀 & 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀:
 Found the month with the highest sales and suggested ways to repeat that success.
