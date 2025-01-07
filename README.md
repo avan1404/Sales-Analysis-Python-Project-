@@ -17,14 +17,10 @@ I utilized Python, employing libraries like Pandas for data manipulation and Mat
 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀 & 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀:
 
 -Found the month with the highest sales and suggested ways to repeat that success.
-
-Discovered which cities had the most sales and looked into why they performed well.
-
-Figured out the best time to show ads to reach more customers and boost sales.
-
-Identified which products are often bought together, giving ideas for bundle offers.
-
-Highlighted the most popular products, helping understand customer preferences.
+-Discovered which cities had the most sales and looked into why they performed well.
+-Figured out the best time to show ads to reach more customers and boost sales.
+-Identified which products are often bought together, giving ideas for bundle offers.
+-Highlighted the most popular products, helping understand customer preferences.
 
 
 𝗪𝗵𝗮𝘁 𝗜'𝘃𝗲 𝗟𝗲𝗮𝗿𝗻𝗲𝗱:
